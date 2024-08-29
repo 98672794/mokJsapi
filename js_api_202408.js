@@ -1,1 +1,1 @@
-$(document).ready(function() {    $('.食面').text('© ' + new Date().getFullYear() + ' All rights reserved by ' + location.hostname).css({'font-size': 'medium'});    });
+console.error('印度线路板提炼黄金！合理又牛逼：');

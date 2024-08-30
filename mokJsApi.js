@@ -25,6 +25,15 @@ $(document).ready(function() {
   $('.mokJsApi_copyright').text('© ' + new Date().getFullYear() + ' All rights reserved by ' + location.hostname).css({'font-size': 'medium'});    
 
 
+  // 用網址中的?做客戶追蹤
+  // 給客的url加上 ?客名
+  // 再記到github
+  if ((location.href).indexOf('?') != -1) {
+    // 顯示說明
+    mokJsApi_說明();
+  };
+  
+  
 });
 
 

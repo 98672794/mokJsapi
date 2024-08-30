@@ -13,4 +13,4 @@ mokaki all js api 2024
     <p class="mokJsApi_copyright">版權</p>
 
 
-    <p class="mokJsApi_exmp">說明</p>
+    <script>mokJsApi_說明();</script>
